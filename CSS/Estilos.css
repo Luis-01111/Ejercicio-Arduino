@@ -1,0 +1,14 @@
+*{background-color: rgba(255, 248, 248, 0.322);
+color: rgb(100, 149, 237);}
+h1 {color: brown;
+font-family: 'Times New Roman', Times, serif;}
+img {
+height: 300px;
+width: 300px;
+}
+#boton1 {color: rgb(255, 254, 254);
+font-size: large;
+background-color: rgb(114, 68, 51);
+border-radius: 5px;}
+.Resaltado {color: lightskyblue;
+background-color: cyan;}
